@@ -7,9 +7,9 @@ module.exports = {
     title: 'Gatsby starter ecommerce',
     author: 'Parminder Sanghera',
     description: 'A starter e-commerce site made using Gatsby.',
-    siteUrl: 'https://parmsang.github.io/gatsby-starter-ecommerce/',
+    siteUrl: 'https://hardcore-nightingale-692a4c.netlify.app/',
   },
-  pathPrefix: '/gatsby-starter-ecommerce',
+  pathPrefix: '/',
   plugins: [
     {
       resolve: '@moltin/gatsby-source-moltin',
