@@ -9,7 +9,7 @@ module.exports = {
     description: 'A starter e-commerce site made using Gatsby.',
     siteUrl: 'https://hardcore-nightingale-692a4c.netlify.app/',
   },
-  pathPrefix: 'https://hardcore-nightingale-692a4c.netlify.app/',
+  pathPrefix: '/gatsby-starter-ecommerce',
   plugins: [
     {
       resolve: '@moltin/gatsby-source-moltin',
