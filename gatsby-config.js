@@ -56,7 +56,7 @@ module.exports = {
       options: {
         name: 'Gatsby Shop App',
         short_name: 'Shop App',
-        start_url: '/gatsby-starter-ecommerce/src/pages/index.js',
+        start_url: 'https://hardcore-nightingale-692a4c.netlify.app/',
         background_color: '#ffffff',
         theme_color: '#ffffff',
         display: 'minimal-ui',
