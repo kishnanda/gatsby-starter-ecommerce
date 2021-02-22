@@ -9,7 +9,7 @@ module.exports = {
     description: 'A starter e-commerce site made using Gatsby.',
     siteUrl: 'https://hardcore-nightingale-692a4c.netlify.app/',
   },
-  pathPrefix: '/gatsby-starter-ecommerce',
+  pathPrefix: '/gatsby-starter-ecommerce/src/pages/index.js',
   plugins: [
     {
       resolve: '@moltin/gatsby-source-moltin',
@@ -56,7 +56,7 @@ module.exports = {
       options: {
         name: 'Gatsby Shop App',
         short_name: 'Shop App',
-        start_url: 'https://hardcore-nightingale-692a4c.netlify.app/',
+        start_url: '/gatsby-starter-ecommerce/src/pages/index.js',
         background_color: '#ffffff',
         theme_color: '#ffffff',
         display: 'minimal-ui',
